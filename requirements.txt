@@ -17,7 +17,7 @@ jinja2>=2.9
 mock
 persistent>=4.2.0
 plyvel
-py-flags
+py-flags==1.1.2
 py-solc
 pytest>=3.6.0
 pytest-cov
