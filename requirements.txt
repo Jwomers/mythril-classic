@@ -21,7 +21,7 @@ py-flags
 py-solc
 pytest>=3.6.0
 pytest-cov
-pytest_mock
+pytest_mock==1.10.3
 requests
 rlp>=1.0.1
 transaction>=2.2.1
