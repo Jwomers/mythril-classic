@@ -20,7 +20,7 @@ plyvel
 py-flags
 py-solc
 pytest>=3.6.0
-pytest-cov
+pytest-cov==2.10.1
 pytest_mock
 requests
 rlp>=1.0.1
